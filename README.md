@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ary-lucas
 - 👀 I’m interested in illustration/ video-games/ programming
-- 🌱 I’m currently learning python and SQL
+- 🌱 I’m currently learning HTML/CSS/Javascript (Fullstack course - Geração tech 2.0)
 - 💞️ I’m looking to collaborate on back-end projects/ personal projects
 - 📫 How to reach me: Through my email - arylucas8@gmail.com or dm me in my twitter @arylucasalvesd1
 
